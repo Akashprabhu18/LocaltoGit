@@ -19,3 +19,9 @@ To make to local folder as a git folder
 
 To add all modified file
 git add .
+
+to know the master name:
+git branch
+
+to change the orgin 
+    git remote add origin https://github.com/Akashprabhu18/LocaltoGit.git
