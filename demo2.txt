@@ -1,0 +1,21 @@
+to clone the git repo
+git clone <HTTPS link>
+
+to get the Status:
+    git status
+
+to add file from working to Git folder
+    Git add <filename>
+
+to commit:
+    git commit -m "message"
+
+to pull the files into local:
+git pull
+
+
+To make to local folder as a git folder
+    git init
+
+To add all modified file
+git add .
