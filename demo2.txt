@@ -25,3 +25,6 @@ git branch
 
 to change the orgin 
     git remote add origin https://github.com/Akashprabhu18/LocaltoGit.git
+
+to navigate to another branch
+     git checkout <branchname>
