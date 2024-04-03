@@ -28,3 +28,15 @@ to change the orgin
 
 to navigate to another branch
      git checkout <branchname>
+
+to view the remote :
+    git remote -v
+
+to navigate between the branches:
+    git checkout <Branch name>
+
+to change the remote origin:
+    git remote set-url origin <HTTPS link>
+
+to check the current working branch:
+    git branch -a
